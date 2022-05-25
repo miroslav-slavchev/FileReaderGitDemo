@@ -6,7 +6,7 @@ namespace FileReader
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Ivan!");
+            Console.WriteLine("Hello User!");
             Console.WriteLine("Hello User!");
         }
     }
